@@ -2,8 +2,8 @@ title:              Jays Integration Journey
 email:              jayaseelan.lourdusamy@yahoo.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            ""
+url:                "/my-clean-blog"
 
 # Social Profiles
 twitter_username:   SBootstrap
